@@ -1,6 +1,11 @@
 # Рекуррентные сети и модель LSTM в задачах обработки естественного языка
 Учебно-методический материал для самостоятельного изучения 
+Подготовлено: Артём Сучков
+
+Recurrent newral networks (LSTM) ordered to NLP/NER tasks
 Educatorial for NER case studying \ LSTM neural network theory \ LSTM in NER-tasks example 
+Edited by: Artem Suchkov
+
 
 ##### Нйронная сеть Long Short Temp Memory
 - Идея метода
